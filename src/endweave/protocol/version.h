@@ -11,9 +11,8 @@ namespace ProtocolVersions {
 
 /** @see Velocity ProtocolVersion#SUPPORTED_VERSIONS. */
 constexpr std::array SUPPORTED_VERSIONS{
+    1001, // 26.30
     2168, // 26.40
-    2193, // 26.50
-    2225, // 26.60
 };
 
 /** Versions that encode every packet the same as a supported version and are routed as it.
