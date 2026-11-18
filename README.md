@@ -74,3 +74,4 @@ Issues and PRs welcome on [GitHub](https://github.com/EndstoneMC/endweave/issues
 ## License
 
 [Apache License 2.0](LICENSE)
+ 
